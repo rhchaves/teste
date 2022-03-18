@@ -8,3 +8,7 @@ export default {
   name: 'telaLogin',
 };
 </script>
+
+<style scoped>
+
+</style>
